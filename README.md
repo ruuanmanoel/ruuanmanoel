@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Ruan
 
-- 🌱 Estudandp desenvolvimento de jogos em C++
+- 🌱 Estudando desenvolvimento de jogos em C++
 - 📫 Contate-me: ruuanmanoel@gmail.com
 - 😄 Pronouns: Ele/Dele
 

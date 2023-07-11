@@ -1,6 +1,5 @@
 ## Olá! Eu me chamo Ruan
 - :man_student:	Graduando em Ciências da Computação 4/8
-- 🌱 Estudando desenvolvimento de jogos em C++
 - 📫 Contate-me: ruuanmanoel@gmail.com
 - 😄 Pronouns: Ele/Dele
 

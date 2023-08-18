@@ -1,7 +1,6 @@
 ## Olá! Eu me chamo Ruan
 - :man_student:	Graduando em Ciências da Computação 4/8
 - 📫 Contate-me: ruuanmanoel@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ruuanmanoel">

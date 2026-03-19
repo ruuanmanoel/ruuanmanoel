@@ -1,5 +1,5 @@
 ## Olá! Eu me chamo Ruan
-- :man_student:	Graduando em Sistema de Informação 4/8
+- :man_student:	 Análise e desenvolvimento de sistemas 3/5
 - 📫 Contate-me: ruuanmanoel@gmail.com
 
 <div align="center">
